@@ -1,0 +1,48 @@
+{
+    "people": [
+        {
+            "first_name": "SARA",
+            "last_name": "SMITH"
+        },
+        {
+            "first_name": "PARSA",
+            "last_name": "ASIL"
+        },
+        {
+            "first_name": "ALI",
+            "last_name": "ZARNOOSHEH"
+        },
+        {
+            "first_name": "ARYA",
+            "last_name": "ASIL"
+        },
+        {
+            "first_name": "DAVE",
+            "last_name": "MUSTAIN"
+        },
+        {
+            "first_name": "MARJAN",
+            "last_name": "NOSRATI"
+        },
+        {
+            "first_name": "SHILPA",
+            "last_name": "PHANSE"
+        },
+        {
+            "first_name": "ZEYAN",
+            "last_name": "JESANI"
+        },
+        {
+            "first_name": "JIMMY",
+            "last_name": "ULRICH"
+        },
+        {
+            "first_name": "PARSA",
+            "last_name": "ASIL"
+        },
+        {
+            "first_name": "PARSA",
+            "last_name": "ASIL"
+        }
+    ]
+}
