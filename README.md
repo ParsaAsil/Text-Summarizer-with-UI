@@ -41,6 +41,7 @@ pip install nltk
 ### 2. Install Tkinter (if not already installed)
 
 Tkinter usually comes with Python, but if it’s missing, install it using:
+
 •	macOS (with Homebrew):
   - brew install python-tk
     
