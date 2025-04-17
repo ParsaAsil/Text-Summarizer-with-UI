@@ -28,6 +28,41 @@ Watch how the app works:
 
 ---
 
+## 📦 Installation
+
+Before running the app, make sure you have Python 3 installed on your system.
+
+### 1. Install Required Libraries
+
+Use pip to install the main library:
+
+pip install nltk
+
+### 2. Install Tkinter (if not already installed)
+
+Tkinter usually comes with Python, but if it’s missing, install it using:
+•	macOS (with Homebrew):
+  - brew install python-tk
+    
+•	Ubuntu / Debian:
+  - sudo apt-get install python3-tk
+
+### 3. Download NLTK Data
+
+After installing NLTK, you need to download the required data.
+Open a Python shell and run:
+
+  import nltk
+  nltk.download('punkt')
+  nltk.download('stopwords')
+
+### 4. Run the Application
+
+Once everything is installed, run the app using:
+  python app.py
+
+---
+
 ## 📝 peopleData.txt Format
 
 ```json
